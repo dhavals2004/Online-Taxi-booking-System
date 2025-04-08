@@ -1,0 +1,220 @@
+/* Home Css */
+
+body{
+    margin: 0px;
+    padding:0px;
+}
+
+.topnav {
+    background-color:black;
+   
+  }
+
+  .topnav a {           
+    float: right;
+    color: #f2f2f2;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 22px;
+  }
+ 
+  .img1{
+    width:70vw;
+    height:70vh;
+  }
+
+
+.container{
+    display: flex;
+    align-items: center;
+    margin: 100px ;
+}
+.search{
+    margin-left:70px;
+    padding: 80px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px;
+}
+.abc{
+    border:2px solid black;
+    border-radius:4px;
+    font-size: 20px;
+
+}
+
+#btn{
+    margin-left:50px;
+    width: 50%;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    
+    background-color: #000000;
+    color:white;    
+    
+}
+/* Login Css */
+
+  
+   .login-container body{
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2; 
+    
+}
+
+.login-container{
+    background-color: white;
+    padding: 100px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 260px;
+    margin:100px 0px 0px 500px;    
+}
+
+.login-container h2 {
+    margin: 0 0 20px;
+    text-align: center;
+}
+.login-container input[type="text"], 
+.login-container input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #000000;
+}
+.login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffcc00;
+    margin:20px 10px ;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.login-container p {
+    text-align: center;
+    margin-top: 15px;
+}
+.login-container a {
+    color: #333;
+    text-decoration: none;
+}
+.btn2{
+    display: flex;
+}
+
+
+/* Sign Up Css */
+   
+.signup-container {
+    background-color: white;
+    padding: 70px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    margin:10px 0px 0px 500px;
+    /* height: 100vh; */
+}
+.signup-container h2 {
+    margin: 20px  20px  60px;
+    text-align: center;
+}
+
+.signup-container input[type="email"],
+.signup-container input[type="text"],
+.signup-container input[type="password"]
+
+{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #0c0c0c;
+}
+.signup-container button
+ {
+    width: 100%;
+    padding: 10px;
+    background-color: #ffcc00;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin:20px 10px ;
+}
+.btn{
+    display: flex;
+ }
+.btn3{
+    width:300px;
+    margin-right:30px;
+}
+
+
+
+ 
+/* Drive home */
+
+ .Drivertop {
+    background-color:black;
+   
+  }
+
+  .Drivertop a{
+    float: right;
+    color: #f2f2f2;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 22px;
+
+  }
+
+
+
+  .text2 {
+   margin:0;
+  padding:0;
+  font-size:20px;
+  margin:180px 200px 0px 100px;
+  font-weight: bold;
+  }
+  
+  .abcde{
+    display: flex;
+    margin-left: 200px;
+    /* justify-content: center; */
+
+
+  }
+  .text {
+    margin:0;
+   padding:0;
+   font-size:20px;
+   margin:75px 0px 0px 100px;
+   font-weight: bold;
+   font-family: 'Times New Roman';
+   }
+
+   .but1{
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+   }
+
+   .home_container{
+    display: flex;
+    justify-content: center;
+   }
+
+ .picd{
+    margin:60px 0 0 40px;
+   
+}
+.picd2{
+    border-radius: 30px;
+    /* width: 90%; */
+}
+.abcd{
+    height: 30px;
+    margin:30px 0 0 10px;
+}
+
+
+  
